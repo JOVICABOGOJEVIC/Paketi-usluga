@@ -1,0 +1,27 @@
+.jumbotron{
+    background-image: linear-gradient(to right,#bd1156, orange);
+    color:white;
+    padding:2%;
+}
+.card{
+    padding:1%;
+    margin-top: 7px;
+}
+.card-header{
+    background-color:#8cbd11;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+.card-footer{
+    background-color:#8cbd11;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-style: italic;
+    margin-top: 7px;
+    font-weight: bold;
+
+}
