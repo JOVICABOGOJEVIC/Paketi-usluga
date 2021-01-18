@@ -1,7 +1,7 @@
 .jumbotron{
     background-image: linear-gradient(to right,#bd1156, orange);
     color:white;
-    padding:2%;
+    padding:1%;
 }
 .card{
     padding:1%;
@@ -21,7 +21,12 @@
 }
 p{
     font-style: italic;
-    margin-top: 7px;
+    margin-top: 3px;
     font-weight: bold;
-
+   text-align: center;
+}
+.jumbo{
+    background-image: linear-gradient(to right, #1c0426,#441659, #1c0426);
+    color:white;
+    padding:1%;
 }
